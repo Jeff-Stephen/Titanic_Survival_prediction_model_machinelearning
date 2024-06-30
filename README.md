@@ -16,8 +16,7 @@ The dataset used for this project is sourced from [Kaggle's Titanic: Machine Lea
 ## Installation
 
 To run this project locally, follow these steps:
-
-1. Clone the repository:
+Clone the repository:
 
     ```
     git clone https://github.com/Jeff-Stephen/titanic-survival-prediction.git
